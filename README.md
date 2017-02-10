@@ -1,2 +1,2 @@
 # npm-patchsearch
-a tool to help finding looking into their text.
+a tool to help finding files by looking keywords into their text.
